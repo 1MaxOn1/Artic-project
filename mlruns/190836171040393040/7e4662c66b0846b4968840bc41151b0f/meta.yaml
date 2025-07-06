@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Artic_model/mlruns/190836171040393040/7e4662c66b0846b4968840bc41151b0f/artifacts
+end_time: 1749652140146
+entry_point_name: ''
+experiment_id: '190836171040393040'
+lifecycle_stage: active
+run_id: 7e4662c66b0846b4968840bc41151b0f
+run_name: capable-fawn-974
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749652137842
+status: 4
+tags: []
+user_id: user

@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Artic_model/mlruns/190836171040393040/ef2b64c81e2e49c0b613cd91ada274e8/artifacts
+end_time: 1749651212338
+entry_point_name: ''
+experiment_id: '190836171040393040'
+lifecycle_stage: active
+run_id: ef2b64c81e2e49c0b613cd91ada274e8
+run_name: rambunctious-owl-118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749651202709
+status: 4
+tags: []
+user_id: user

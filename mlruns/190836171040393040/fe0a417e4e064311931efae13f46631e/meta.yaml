@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Artic_model/mlruns/190836171040393040/fe0a417e4e064311931efae13f46631e/artifacts
+end_time: 1749652100154
+entry_point_name: ''
+experiment_id: '190836171040393040'
+lifecycle_stage: active
+run_id: fe0a417e4e064311931efae13f46631e
+run_name: thundering-bass-452
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749652098661
+status: 4
+tags: []
+user_id: user

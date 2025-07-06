@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Artic_model/mlruns/481099135687968271/fe2337dc920d4a4ebf377fca1a7cc33d/artifacts
+end_time: 1750345595100
+entry_point_name: ''
+experiment_id: '481099135687968271'
+lifecycle_stage: active
+run_id: fe2337dc920d4a4ebf377fca1a7cc33d
+run_name: skittish-zebra-491
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750345590177
+status: 4
+tags: []
+user_id: user

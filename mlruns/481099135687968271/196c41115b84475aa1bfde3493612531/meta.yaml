@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Artic_model/mlruns/481099135687968271/196c41115b84475aa1bfde3493612531/artifacts
+end_time: 1751117040352
+entry_point_name: ''
+experiment_id: '481099135687968271'
+lifecycle_stage: active
+run_id: 196c41115b84475aa1bfde3493612531
+run_name: sassy-hog-85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751116882721
+status: 3
+tags: []
+user_id: user

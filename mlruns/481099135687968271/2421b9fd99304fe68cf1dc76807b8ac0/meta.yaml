@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Artic_model/mlruns/481099135687968271/2421b9fd99304fe68cf1dc76807b8ac0/artifacts
+end_time: 1751115533462
+entry_point_name: ''
+experiment_id: '481099135687968271'
+lifecycle_stage: active
+run_id: 2421b9fd99304fe68cf1dc76807b8ac0
+run_name: invincible-zebra-603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751115533428
+status: 3
+tags: []
+user_id: user

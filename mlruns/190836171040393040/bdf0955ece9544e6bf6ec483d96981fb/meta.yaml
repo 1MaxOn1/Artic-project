@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Artic_model/mlruns/190836171040393040/bdf0955ece9544e6bf6ec483d96981fb/artifacts
+end_time: 1749651738038
+entry_point_name: ''
+experiment_id: '190836171040393040'
+lifecycle_stage: active
+run_id: bdf0955ece9544e6bf6ec483d96981fb
+run_name: popular-horse-340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749651701015
+status: 4
+tags: []
+user_id: user

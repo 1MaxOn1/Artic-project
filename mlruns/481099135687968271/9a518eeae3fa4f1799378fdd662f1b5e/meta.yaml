@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Artic_model/mlruns/481099135687968271/9a518eeae3fa4f1799378fdd662f1b5e/artifacts
+end_time: 1750359249123
+entry_point_name: ''
+experiment_id: '481099135687968271'
+lifecycle_stage: active
+run_id: 9a518eeae3fa4f1799378fdd662f1b5e
+run_name: polite-auk-147
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750358791068
+status: 4
+tags: []
+user_id: user

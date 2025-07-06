@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Artic_model/mlruns/481099135687968271/5371314d38a8413386c9b7958cc7127c/artifacts
+end_time: 1750771766075
+entry_point_name: ''
+experiment_id: '481099135687968271'
+lifecycle_stage: active
+run_id: 5371314d38a8413386c9b7958cc7127c
+run_name: honorable-eel-380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750759104026
+status: 3
+tags: []
+user_id: user

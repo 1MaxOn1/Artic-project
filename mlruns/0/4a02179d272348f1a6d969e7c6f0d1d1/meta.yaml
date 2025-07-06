@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4a02179d272348f1a6d969e7c6f0d1d1/artifacts
+end_time: 1751115351972
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a02179d272348f1a6d969e7c6f0d1d1
+run_name: nimble-wolf-118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751115351919
+status: 3
+tags: []
+user_id: user

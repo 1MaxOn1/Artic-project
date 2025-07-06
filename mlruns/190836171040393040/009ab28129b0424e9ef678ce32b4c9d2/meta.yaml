@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Artic_model/mlruns/190836171040393040/009ab28129b0424e9ef678ce32b4c9d2/artifacts
+end_time: 1749653137666
+entry_point_name: ''
+experiment_id: '190836171040393040'
+lifecycle_stage: active
+run_id: 009ab28129b0424e9ef678ce32b4c9d2
+run_name: beautiful-toad-174
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749653131665
+status: 4
+tags: []
+user_id: user

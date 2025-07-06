@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Artic_model/mlruns/481099135687968271/70d88c0684bf4a9f93861ffcb76e2cf2/artifacts
+end_time: 1750281395236
+entry_point_name: ''
+experiment_id: '481099135687968271'
+lifecycle_stage: active
+run_id: 70d88c0684bf4a9f93861ffcb76e2cf2
+run_name: gentle-fish-968
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750281184874
+status: 4
+tags: []
+user_id: user

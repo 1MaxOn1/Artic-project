@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ab2f28092d1841e5be0bb16a4fb120cf/artifacts
+end_time: 1751115499676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab2f28092d1841e5be0bb16a4fb120cf
+run_name: polite-ox-171
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751115499622
+status: 3
+tags: []
+user_id: user

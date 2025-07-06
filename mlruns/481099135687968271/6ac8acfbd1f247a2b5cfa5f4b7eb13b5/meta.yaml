@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Artic_model/mlruns/481099135687968271/6ac8acfbd1f247a2b5cfa5f4b7eb13b5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '481099135687968271'
+lifecycle_stage: active
+run_id: 6ac8acfbd1f247a2b5cfa5f4b7eb13b5
+run_name: loud-snail-757
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751117174510
+status: 1
+tags: []
+user_id: user

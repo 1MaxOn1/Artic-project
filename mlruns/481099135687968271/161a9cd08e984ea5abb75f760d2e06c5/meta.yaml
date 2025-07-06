@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Artic_model/mlruns/481099135687968271/161a9cd08e984ea5abb75f760d2e06c5/artifacts
+end_time: 1750280316106
+entry_point_name: ''
+experiment_id: '481099135687968271'
+lifecycle_stage: active
+run_id: 161a9cd08e984ea5abb75f760d2e06c5
+run_name: casual-ape-369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750280307860
+status: 4
+tags: []
+user_id: user

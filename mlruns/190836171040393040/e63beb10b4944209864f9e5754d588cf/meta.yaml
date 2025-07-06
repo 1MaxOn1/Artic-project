@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Artic_model/mlruns/190836171040393040/e63beb10b4944209864f9e5754d588cf/artifacts
+end_time: 1749652574516
+entry_point_name: ''
+experiment_id: '190836171040393040'
+lifecycle_stage: active
+run_id: e63beb10b4944209864f9e5754d588cf
+run_name: funny-rat-748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749652390852
+status: 4
+tags: []
+user_id: user

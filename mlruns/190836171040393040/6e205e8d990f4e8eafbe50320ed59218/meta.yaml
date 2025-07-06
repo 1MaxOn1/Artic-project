@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Artic_model/mlruns/190836171040393040/6e205e8d990f4e8eafbe50320ed59218/artifacts
+end_time: 1749651374893
+entry_point_name: ''
+experiment_id: '190836171040393040'
+lifecycle_stage: active
+run_id: 6e205e8d990f4e8eafbe50320ed59218
+run_name: redolent-goat-829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749651364360
+status: 4
+tags: []
+user_id: user

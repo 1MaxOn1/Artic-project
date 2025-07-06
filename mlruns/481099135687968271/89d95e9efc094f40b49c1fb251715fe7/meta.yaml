@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Artic_model/mlruns/481099135687968271/89d95e9efc094f40b49c1fb251715fe7/artifacts
+end_time: 1751116721556
+entry_point_name: ''
+experiment_id: '481099135687968271'
+lifecycle_stage: active
+run_id: 89d95e9efc094f40b49c1fb251715fe7
+run_name: clean-seal-833
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751116721516
+status: 3
+tags: []
+user_id: user

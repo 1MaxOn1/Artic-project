@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Artic_model/mlruns/481099135687968271/d9d7d4672b4c4f35b21efbd2bb7f8441/artifacts
+end_time: 1750280912384
+entry_point_name: ''
+experiment_id: '481099135687968271'
+lifecycle_stage: active
+run_id: d9d7d4672b4c4f35b21efbd2bb7f8441
+run_name: calm-stag-8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750280894050
+status: 4
+tags: []
+user_id: user

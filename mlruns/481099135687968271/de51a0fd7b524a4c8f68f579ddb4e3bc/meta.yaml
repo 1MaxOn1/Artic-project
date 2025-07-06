@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Artic_model/mlruns/481099135687968271/de51a0fd7b524a4c8f68f579ddb4e3bc/artifacts
+end_time: 1750360130340
+entry_point_name: ''
+experiment_id: '481099135687968271'
+lifecycle_stage: active
+run_id: de51a0fd7b524a4c8f68f579ddb4e3bc
+run_name: overjoyed-stag-347
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750359661613
+status: 4
+tags: []
+user_id: user

@@ -1,0 +1,6 @@
+artifact_location: file:///d:/Artic_model/mlruns/481099135687968271
+creation_time: 1750279794231
+experiment_id: '481099135687968271'
+last_update_time: 1750279794231
+lifecycle_stage: active
+name: model trained per week, min/max scaler

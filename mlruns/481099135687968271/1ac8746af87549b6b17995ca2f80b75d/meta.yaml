@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Artic_model/mlruns/481099135687968271/1ac8746af87549b6b17995ca2f80b75d/artifacts
+end_time: 1750283079768
+entry_point_name: ''
+experiment_id: '481099135687968271'
+lifecycle_stage: active
+run_id: 1ac8746af87549b6b17995ca2f80b75d
+run_name: bustling-fly-636
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750282493721
+status: 4
+tags: []
+user_id: user

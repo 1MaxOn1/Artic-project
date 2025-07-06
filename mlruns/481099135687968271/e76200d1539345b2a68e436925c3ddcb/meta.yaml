@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Artic_model/mlruns/481099135687968271/e76200d1539345b2a68e436925c3ddcb/artifacts
+end_time: 1750281879667
+entry_point_name: ''
+experiment_id: '481099135687968271'
+lifecycle_stage: active
+run_id: e76200d1539345b2a68e436925c3ddcb
+run_name: bustling-ape-945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750281503102
+status: 4
+tags: []
+user_id: user

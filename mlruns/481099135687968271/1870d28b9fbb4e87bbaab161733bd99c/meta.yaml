@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Artic_model/mlruns/481099135687968271/1870d28b9fbb4e87bbaab161733bd99c/artifacts
+end_time: 1751116002800
+entry_point_name: ''
+experiment_id: '481099135687968271'
+lifecycle_stage: active
+run_id: 1870d28b9fbb4e87bbaab161733bd99c
+run_name: amusing-stag-975
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751115834935
+status: 3
+tags: []
+user_id: user

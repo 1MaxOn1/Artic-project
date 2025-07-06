@@ -1,0 +1,25 @@
+[project]
+name = "Artic_project"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "", email = ""},
+]
+dependencies = ["torch>=2.7.1", "torchvision>=0.22.1", "torchaudio>=2.7.1", "albumentations>=2.0.8", "torchcnnbuilder>=0.1.4", "mlflow>=3.1.1", "tqdm>=4.67.1", "torchsummary>=1.5.1", "scipy>=1.16.0", "pip>=25.1.1", "torchinfo>=1.8.0", "torcheval>=0.0.7", "torchmetrics>=1.7.3"]
+requires-python = ">=3.13"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
+
+
+[tool.pdm]
+distribution = true
+
+
+[[tool.pdm.source]]
+name = "pytorch_cuda"
+url = "https://download.pytorch.org/whl/cu118"
+include_packages = ["torch", "torchvision", "torchaudio"]

@@ -1,0 +1,6 @@
+artifact_location: file:///d:/Artic_model/mlruns/190836171040393040
+creation_time: 1749649532739
+experiment_id: '190836171040393040'
+last_update_time: 1749649532739
+lifecycle_stage: active
+name: model 5 layers, no normalization, 1 year feature, 0.5 year target
